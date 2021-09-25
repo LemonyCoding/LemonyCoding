@@ -50,8 +50,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/LemonyCoding/github-readme-stats"><img alt="LemonyCoding's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LemonyCoding28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/LemonyCoding/github-readme-stats"><img alt="LemonyCoding's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonyCoding28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/LemonyCoding/github-readme-stats"><img alt="LemonyCoding's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LemonyCoding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/LemonyCoding/github-readme-stats"><img alt="LemonyCoding's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonyCoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top Languages is just a metric of the languages that make up my public code and does not reflect experience or skill level.
 
