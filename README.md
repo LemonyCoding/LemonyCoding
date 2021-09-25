@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonyCoding&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/LemonyCoding/github-readme-activity-graph"><img alt="LemonyCodingh" src="https://activity-graph.herokuapp.com/graph?username=LemonyCoding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
