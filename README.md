@@ -16,7 +16,7 @@
 
 - 🤝 Portal: https://discord.gg/zxAEk3fdjK
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LemonyCoding=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## ❤ Views and Followers
