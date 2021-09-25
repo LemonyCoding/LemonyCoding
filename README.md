@@ -21,6 +21,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/LemonyCoding/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=LemonyCoding8">
 </a>
 <a href="https://github.com/LemonyCoding?tab=followers"><img src="https://img.shields.io/github/followers/LemonyCoding?label=Followers&style=social" alt="GitHub Badge"></a>
